@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Advik-Gupta
+- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m @Advik-Gupta
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me advikgupta6901@gmail.com
