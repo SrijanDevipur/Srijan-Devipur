@@ -1,6 +1,6 @@
 <h2> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Advik Gupta </h2>
 
-Hi, I’m Advik Gupta, a self-taught web developer programmer from India. Currently focused in full stack web development. <br><br>
+Hi, I’m Advik Gupta, a self-taught programmer from India. Currently focused in full stack web development. <br><br>
 <b> Learned from </b> <br><br>
 <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"> <img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"> <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white">
 <br>
