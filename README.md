@@ -26,19 +26,19 @@ Hi, I’m Advik Gupta, a self-taught web developer programmer from India. Curren
 
 <a href="https://github.com/Advik-Gupta/YelpCamp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=YelpCamp&theme=tokyonight" />
-</a>
+</a> 
 <a href="https://github.com/Advik-Gupta/advik-clothing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=advik-clothing&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=advik-clothing&theme=tokyonight&show_owner" />
 </a>
 
-<h2> GitHub Stats </h2>
+<!-- <h2> GitHub Stats </h2>
 
 <a href="https://github.com/Advik-Gupta/YelpCamp">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Advik-Gupta&theme=tokyonight&layout=compact" />
-</a>
+</a><br><br>
 <a href="https://github.com/Advik-Gupta/advik-clothing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Advik-Gupta&theme=tokyonight&layout=compact" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Advik-Gupta&theme=tokyonight&layout=compact&card_width=300px" />
+</a> -->
 
 <!---
 Advik-Gupta/Advik-Gupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
