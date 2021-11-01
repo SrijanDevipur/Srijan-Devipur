@@ -3,6 +3,9 @@
 Hi, I’m Advik Gupta, a self-taught web developer programmer from India.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Advik-Gupta&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="285px">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Advik-Gupta&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Advik-Gupta/Advik-Gupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
