@@ -1,4 +1,4 @@
-<h2> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Advik Gupta <img src="https://media.giphy.com/media/wjIDrGKbvuGxW/giphy.gif" width="30px"> </h2>
+<h2> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Advik Gupta </h2>
 
 Hi, I’m Advik Gupta, a self-taught web developer programmer from India. Currently focused in full stack web development. <br><br>
 <b> Learned from </b> <br><br>
