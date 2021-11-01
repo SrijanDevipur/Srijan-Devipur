@@ -26,12 +26,13 @@ Hi, I’m Advik Gupta, a self-taught web developer programmer from India. Curren
 
 <a href="https://github.com/Advik-Gupta/YelpCamp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=YelpCamp&theme=tokyonight" />
+</a> <br><br>
+
+<a href="https://github.com/Advik-Gupta/DMMITS-21">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=DMMITS-21&theme=tokyonight&show_owner" />
 </a> 
 <a href="https://github.com/Advik-Gupta/advik-clothing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=advik-clothing&theme=tokyonight&show_owner" />
-</a>
-<a href="https://github.com/Advik-Gupta/DMMITS-21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=DMMITS-21&theme=tokyonight&show_owner" />
 </a>
 
 
