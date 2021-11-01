@@ -31,6 +31,30 @@ Hi, I’m Advik Gupta, a self-taught web developer programmer from India. Curren
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=advik-clothing&theme=tokyonight&show_owner" />
 </a>
 
+
+<!-- <h2>  Contact Me  </h2>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a> 
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white">
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white">
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a> -->
+
+
 <!-- <h2> GitHub Stats </h2>
 
 <a href="https://github.com/Advik-Gupta/YelpCamp">
