@@ -1,6 +1,7 @@
 <h2> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Advik Gupta </h2>
 
-Hi, I’m Advik Gupta, a self-taught programmer from India. Currently focused on full-stack web development and also interested in machine learning and AI. I love learning new technologies and programming languages and increasing the size of my skillset. <br><br>
+Hi, I’m Advik Gupta, a self-taught programmer from India. I am currently focused on full-stack web development, with a passion for machine learning and AI. I love learning new technologies and programming languages and increasing the extent of my skillset. I am a diligent worker with a penchant for delivering quality work which is visible in everything I do. <br>
+I would love to collaborate on projects that will help me expand my professional horizons and learn a strong work culture. I started gaining knowledge from a young age, which makes me even more open to channelising my thoughts and ideas, into more structured forms. <br><br>
 <b> Learned from </b> <br><br>
 <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"> <img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"> <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white">
 <br>
