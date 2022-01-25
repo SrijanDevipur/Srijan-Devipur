@@ -27,6 +27,9 @@ I would love to collaborate on projects that will help me expand my professional
 
 <a href="https://github.com/Advik-Gupta/YelpCamp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=YelpCamp&theme=tokyonight" />
+</a>
+<a href="https://github.com/Advik-Gupta/WhatsApp-Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=WhatsApp-Clone&theme=tokyonight" />
 </a> <br><br>
 
 <a href="https://github.com/Advik-Gupta/DMMITS-21">
