@@ -40,7 +40,9 @@ I would love to collaborate on projects that will help me expand my professional
 <a href="https://github.com/Advik-Gupta/WhatsApp-Clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=WhatsApp-Clone&theme=tokyonight" />
 </a> 
-
+<a href="https://github.com/Advik-Gupta/Zoom-Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=Zoom-Clone&theme=tokyonight" />
+</a> <br><br>
 
 <!-- <h2>  Contact Me  </h2>
 
