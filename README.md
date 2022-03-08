@@ -65,11 +65,7 @@ I would love to collaborate on projects that will help me expand my professional
   <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white">
 </a>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
-</a>
-
-<a href="#">
+<a href="https://t.me/advikgupta">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
