@@ -47,6 +47,13 @@ I would love to collaborate on projects that will help me expand my professional
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=Zoom-Clone&theme=tokyonight" />
 </a> <br><br>
 
+<a href="https://github.com/Advik-Gupta/Web-Development-Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=Web-Development-Projects&theme=tokyonight" />
+</a> 
+<a href="https://github.com/Advik-Gupta/QuizMania">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=QuizMania&theme=tokyonight" />
+</a> <br><br>
+
 <!-- <h2>  Contact Me  </h2>
 
 <a href="#">
