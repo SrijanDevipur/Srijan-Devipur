@@ -33,8 +33,8 @@ I would love to collaborate on projects that will help me expand my professional
 </a><br><br>
 
 
-<a href="https://github.com/Advik-Gupta/DMMITS-21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=DMMITS-21&theme=tokyonight&show_owner" />
+<a href="https://github.com/Advik-Gupta/QuizMania">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=QuizMania&theme=tokyonight&show_owner" />
 </a> 
 <a href="https://github.com/Advik-Gupta/advik-clothing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=advik-clothing&theme=tokyonight&show_owner" />
@@ -47,24 +47,21 @@ I would love to collaborate on projects that will help me expand my professional
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=Zoom-Clone&theme=tokyonight" />
 </a> <br><br>
 
-<a href="https://github.com/Advik-Gupta/Web-Development-Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=Web-Development-Projects&theme=tokyonight" />
-</a> 
-<a href="https://github.com/Advik-Gupta/QuizMania">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=QuizMania&theme=tokyonight" />
+<h2>  Contact Me  </h2>
+
+<a href="#">
+  &#x2709; &rarr; advikguptadev@gmail.com
 </a> <br><br>
 
-<!-- <h2>  Contact Me  </h2>
-
 <a href="#">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a> 
+  &#128222; &rarr; 6901256055
+</a> <br><br>
 
-<a href="#">
+<a href="https://www.freelancer.com/u/advikguptadev?">
   <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white">
 </a>
 
-<a href="#">
+<a href="https://www.upwork.com/freelancers/~018e90dfc6549c5f59">
   <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white">
 </a>
 
@@ -74,7 +71,7 @@ I would love to collaborate on projects that will help me expand my professional
 
 <a href="#">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a> -->
+</a>
 
 
 <!-- <h2> GitHub Stats </h2>
