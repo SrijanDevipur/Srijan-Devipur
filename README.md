@@ -79,6 +79,8 @@ I would love to collaborate on projects that will help me expand my professional
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Advik-Gupta&theme=tokyonight&layout=compact&card_width=300px" />
 </a>
 
+<h2> A bit about me </h2>
+
 ### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
 <!-- GOODREADS-LIST:END -->
