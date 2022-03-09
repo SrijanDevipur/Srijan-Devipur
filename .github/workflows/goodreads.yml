@@ -1,0 +1,3 @@
+- name: Goodreads Profile Workflow
+  uses: zwacky/goodreads-profile-workflow@v1.2.2
+
