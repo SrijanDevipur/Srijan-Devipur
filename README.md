@@ -81,6 +81,11 @@ I would love to collaborate on projects that will help me expand my professional
 
 <h2> A little bit about me</h2>
 
-# Last 5 Books I've Read 🤓
+### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
 <!-- GOODREADS-LIST:END -->
+
+### Last 5 Books I've Read 🤓
+<!-- GOODREADS-READ-LIST:START -->
+<!-- GOODREADS-READ-LIST:END -->
+
