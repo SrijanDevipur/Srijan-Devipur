@@ -72,6 +72,14 @@ I would love to collaborate on projects from which I can learn something new and
   <img src="https://img.shields.io/badge/Advik%20Gupta-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+<a href="https://dev.to/advikguptadev">
+  <img src="https://img.shields.io/badge/advikguptadev-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+</a>
+
+<a href="https://t.me/advikgupta">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
 <a href="https://www.freelancer.com/u/advikguptadev?">
   <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white">
 </a>
@@ -79,11 +87,6 @@ I would love to collaborate on projects from which I can learn something new and
 <a href="https://www.upwork.com/freelancers/~018e90dfc6549c5f59">
   <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white">
 </a>
-
-<a href="https://t.me/advikgupta">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-
 
 ## 📈 Stats
 
