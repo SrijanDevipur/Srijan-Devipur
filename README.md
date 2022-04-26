@@ -1,7 +1,7 @@
 <h2> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Advik Gupta </h2>
 
 Hi, I’m Advik Gupta, a self-taught programmer from India. I am currently focused on full-stack web development, with a passion for machine learning and AI. I love learning new technologies and programming languages and increasing the extent of my skillset. I am a diligent worker with a penchant for delivering quality work which is visible in everything I do. <br>
-I would love to collaborate on projects that will help me expand my professional horizons and learn a strong work culture. I started gaining knowledge from a young age, which makes me even more open to channelising my thoughts and ideas, into more structured forms. <br>
+I would love to collaborate on projects from which I can learn something new and gain more experience. I'm always looking to learning new things and making friends along the way. I started gaining knowledge from a young age, which makes me even more open to channelising my thoughts and ideas, into more structured forms. <br>
 
 - 🧠 I’m currently learning: React
 - 🤝 I’m looking to collaborate on: MERN Stack Projects
