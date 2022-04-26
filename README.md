@@ -90,6 +90,8 @@ I would love to collaborate on projects from which I can learn something new and
 
 ## 📈 Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Advik-Gupta&theme=tokyonight&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Advik-Gupta&theme=tokyonight&layout=compact&card_width=300px" />
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=Advik-Gupta&theme=tokyonight&layout=compact&card_width=250px" /></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Advik-Gupta&theme=tokyonight&layout=compact&card_width=450px" /></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/wakatime?username=advikguptadev&theme=tokyonight&layout=compact" /></a>
+
 
