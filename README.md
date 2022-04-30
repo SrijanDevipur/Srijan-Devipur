@@ -37,9 +37,8 @@ I would love to collaborate on projects from which I can learn something new and
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=COVID-19-Tracker&theme=tokyonight" />
 </a><br><br>
 
-
-<a href="https://github.com/Advik-Gupta/QuizMania">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=QuizMania&theme=tokyonight&show_owner" />
+<a href="https://github.com/Advik-Gupta/CryptoPunk-Web3-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=CryptoPunk-Web3-Project&theme=tokyonight&show_owner" />
 </a> 
 <a href="https://github.com/Advik-Gupta/Advik-Clothing-V2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=Advik-Clothing-V2&theme=tokyonight&show_owner" />
