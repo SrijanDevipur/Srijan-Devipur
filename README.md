@@ -47,8 +47,8 @@ I would love to collaborate on projects from which I can learn something new and
 <a href="https://github.com/Advik-Gupta/WhatsApp-Clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=WhatsApp-Clone&theme=tokyonight" />
 </a> 
-<a href="https://github.com/Advik-Gupta/Zoom-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=Zoom-Clone&theme=tokyonight" />
+<a href="https://github.com/Advik-Gupta/Meeses">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=Meeses&theme=tokyonight" />
 </a> <br><br>
 
 ## 🤝 Contact Me
