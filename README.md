@@ -1,5 +1,7 @@
 ### I am currently on a break from coding.
+That's why if some of my projects/code dont work its because I havent maintained them in a while.
 
+<br/>
 <h2> 👋 Hi, I’m Advik Gupta </h2>
 
 Hi, I’m Advik Gupta, a self-taught programmer from India. I am currently focused on full-stack web development, with a passion for machine learning and AI. I love learning new technologies and programming languages and increasing the extent of my skillset. I am a diligent worker with a penchant for delivering quality work which is visible in everything I do. <br>
