@@ -1,6 +1,5 @@
 ### I am currently on a break from coding.
 That's why if some of my projects/code dont work its because I havent maintained them in a while.
-
 <br/>
 <h2> 👋 Hi, I’m Advik Gupta </h2>
 
