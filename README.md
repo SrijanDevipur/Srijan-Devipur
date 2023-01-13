@@ -33,62 +33,31 @@ I would love to collaborate on projects from which I can learn something new and
 
 <b> Some of the projects I have made </b> <br>
 
-<a href="https://github.com/Advik-Gupta/YelpCamp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=YelpCamp&theme=tokyonight" />
-</a>
-<a href="https://github.com/Advik-Gupta/COVID-19-Tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=COVID-19-Tracker&theme=tokyonight" />
-</a><br><br>
-
-<a href="https://github.com/Advik-Gupta/CryptoPunk-Web3-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=CryptoPunk-Web3-Project&theme=tokyonight&show_owner" />
-</a> 
+ 
 <a href="https://github.com/Advik-Gupta/Advik-Clothing-V2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=Advik-Clothing-V2&theme=tokyonight&show_owner" />
-</a><br><br>
-
+</a>
 <a href="https://github.com/Advik-Gupta/WhatsApp-Clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=WhatsApp-Clone&theme=tokyonight" />
+</a><br><br>
+
+<a href="https://github.com/Advik-Gupta/Netflix-Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=Netflix-Clone&theme=tokyonight&show_owner" />
 </a> 
+<a href="https://github.com/Advik-Gupta/Disney-Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=Disney-Clone&theme=tokyonight&show_owner" />
+</a><br><br>
+
 <a href="https://github.com/Advik-Gupta/Meeses">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=Meeses&theme=tokyonight" />
-</a> <br><br>
+</a>
+<a href="https://github.com/Advik-Gupta/DMMITS-21">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=DMMITS-21&theme=tokyonight&show_owner" />
+</a><br><br>
 
 ## 🤝 Contact Me
 
 &#x2709; &rarr; advikguptadev@gmail.com
-
-<a href="https://twitter.com/Advik_Gupta69">
-  <img src="https://img.shields.io/badge/@Advik__Gupta69-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-</a>
-
-<a href="https://www.instagram.com/advikguptadev/">
-  <img src="https://img.shields.io/badge/@advikguptadev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-
-<a href="https://www.youtube.com/channel/UCzhukYx1lfRYIQJgxQI4aPQ">
-  <img src="https://img.shields.io/badge/Advik_Gupta-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/advik-gupta/">
-  <img src="https://img.shields.io/badge/Advik%20Gupta-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://dev.to/advikguptadev">
-  <img src="https://img.shields.io/badge/advikguptadev-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
-</a>
-
-<a href="https://t.me/advikgupta">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-
-<a href="https://www.freelancer.com/u/advikguptadev?">
-  <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white">
-</a>
-
-<a href="https://www.upwork.com/freelancers/~018e90dfc6549c5f59">
-  <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white">
-</a>
 
 ## 📈 Stats
 
