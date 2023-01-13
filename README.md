@@ -57,7 +57,7 @@ I would love to collaborate on projects from which I can learn something new and
 
 ## 🤝 Contact Me
 
-&#x2709; &rarr; advikguptadev@gmail.com
+&#x2709; &rarr; advikgupta6901@gmail.com
 
 ## 📈 Stats
 
