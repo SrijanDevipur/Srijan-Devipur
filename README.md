@@ -33,12 +33,11 @@ I would love to collaborate on projects from which I can learn something new and
 
 <b> Some of the projects I have made </b> <br>
 
- 
-<a href="https://github.com/Advik-Gupta/advikclothing-v3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=advikclothing-v3&theme=tokyonight&show_owner" />
-</a>
 <a href="https://github.com/Advik-Gupta/MERN-eCommerce">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=MERN-eCommerce&theme=tokyonight" />
+</a>
+<a href="https://github.com/Advik-Gupta/advikclothing-v3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=advikclothing-v3&theme=tokyonight&show_owner" />
 </a><br><br>
 
 <a href="https://github.com/Advik-Gupta/Netflix-Clone">
