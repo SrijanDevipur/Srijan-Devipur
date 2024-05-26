@@ -33,25 +33,18 @@ I would love to collaborate on projects from which I can learn something new and
 
 <b> Some of the projects I have made </b> <br>
 
-<a href="https://github.com/Advik-Gupta/MERN-eCommerce">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=MERN-eCommerce&theme=tokyonight" />
-</a>
 <a href="https://github.com/Advik-Gupta/advikclothing-v3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=advikclothing-v3&theme=tokyonight&show_owner" />
-</a><br><br>
-
-<a href="https://github.com/Advik-Gupta/Netflix-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=Netflix-Clone&theme=tokyonight&show_owner" />
-</a> 
-<a href="https://github.com/Advik-Gupta/Disney-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=Disney-Clone&theme=tokyonight&show_owner" />
-</a><br><br>
-
-<a href="https://github.com/Advik-Gupta/Meeses">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=Meeses&theme=tokyonight" />
 </a>
+<a href="https://github.com/Advik-Gupta/MERN-eCommerce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=MERN-eCommerce&theme=tokyonight" />
+</a><br><br>
+
 <a href="https://github.com/Advik-Gupta/DMMITS-21">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=DMMITS-21&theme=tokyonight&show_owner" />
+</a>
+<a href="https://github.com/Advik-Gupta/Small-Web-Development-Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=Small-Web-Development-Projects&theme=tokyonight" />
 </a><br><br>
 
 ## 🤝 Contact Me
