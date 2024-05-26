@@ -49,10 +49,10 @@ I would love to collaborate on projects from which I can learn something new and
 
 ## 🤝 Contact Me
 
-&#x2709; &rarr; advikgupta6901@gmail.com
-Instagram &rarr; <a href="https://www.instagram.com/advikguptaa/">https://www.instagram.com/advikguptaa/</a>
-Twitter &rarr; <a href="https://x.com/advikguptaa">https://x.com/advikguptaa</a>
-LinkedIn &rarr; <a href="https://www.linkedin.com/in/advik-gupta-37a557308/">https://www.linkedin.com/in/advik-gupta</a>
+&#x2709; &rarr; advikgupta6901@gmail.com <br>
+Instagram &rarr; <a href="https://www.instagram.com/advikguptaa/">https://www.instagram.com/advikguptaa/</a><br>
+Twitter &rarr; <a href="https://x.com/advikguptaa">https://x.com/advikguptaa</a><br>
+LinkedIn &rarr; <a href="https://www.linkedin.com/in/advik-gupta-37a557308/">https://www.linkedin.com/in/advik-gupta</a><br>
 
 ## 📈 Stats
 
