@@ -40,8 +40,15 @@ I would love to collaborate on projects from which I can learn something new and
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=MERN-eCommerce&theme=tokyonight" />
 </a><br><br>
 
+<a href="https://github.com/Advik-Gupta/Covid-19-Tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=Covid-19-Tracker&theme=tokyonight&show_owner" />
+</a>
 <a href="https://github.com/Advik-Gupta/DMMITS-21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=DMMITS-21&theme=tokyonight&show_owner" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=DMMITS-21&theme=tokyonight" />
+</a><br><br>
+
+<a href="https://github.com/Advik-Gupta/Coupled">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=Coupled&theme=tokyonight&show_owner" />
 </a>
 <a href="https://github.com/Advik-Gupta/Small-Web-Development-Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=Small-Web-Development-Projects&theme=tokyonight" />
