@@ -66,5 +66,5 @@ LinkedIn &rarr; https://www.linkedin.com/in/advik-gupta-37a557308 <br>
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=Advik-Gupta&theme=tokyonight&layout=compact&card_width=375px" /></a>
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Advik-Gupta&theme=tokyonight&layout=compact&card_width=250px" /></a><br>
 <div><a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Advik-Gupta&theme=tokyonight" /></a></div><br>
-<div><a><img align="center" src="https://github.r2v.ch/codewars?user=Advik-Gupta&stroke=%23BB432C&top_languages=true&theme=gradient&hide_clan=true" /></a></div>
+<!-- <div><a><img align="center" src="https://github.r2v.ch/codewars?user=Advik-Gupta&stroke=%23BB432C&top_languages=true&theme=gradient&hide_clan=true" /></a></div> -->
 
