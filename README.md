@@ -6,9 +6,9 @@ That's why if some of my projects/code dont work its because I havent maintained
 Hi, I’m Advik Gupta, a self-taught programmer from India. I am currently focused on full-stack web development, with a passion for machine learning and AI. I love learning new technologies and programming languages and increasing the extent of my skillset. I am a diligent worker with a penchant for delivering quality work which is visible in everything I do. <br>
 I would love to collaborate on projects from which I can learn something new and gain more experience. I'm always looking to learning new things and making friends along the way. I started gaining knowledge from a young age, which makes me even more open to channelising my thoughts and ideas, into more structured forms. <br>
 
-- 🧠 I’m currently learning: React
-- 🤝 I’m looking to collaborate on: MERN Stack Projects
-- 💪 I would love to talk about: React, Nodejs, ExpressJS or MongoDB. I'm enthusiastic about these topics!
+- 🧠 I’m currently learning: Data Analysis and Tensorflow
+- 🤝 I’m looking to collaborate on: MERN Stack, Web Dev, Data Science and Python Projects
+- 💪 I would love to talk about: Data Science, Python, AI and ML or MERN Stack. I'm enthusiastic about these topics!
 
 ### Learned from
 <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"> <img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"> <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white">
