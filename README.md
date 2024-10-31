@@ -31,7 +31,7 @@ I would love to collaborate on projects from which I can learn something new and
 <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"> <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"> <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"> <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
 
 
-## ✨ Projects ✨
+<!-- ## ✨ Projects ✨
 
 <b> Some of the projects I have made </b> <br>
 
@@ -54,7 +54,7 @@ I would love to collaborate on projects from which I can learn something new and
 </a>
 <a href="https://github.com/Advik-Gupta/Small-Web-Development-Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=Small-Web-Development-Projects&theme=tokyonight" />
-</a><br><br>
+</a><br><br>  -->
 
 ## 🤝 Contact Me
 
