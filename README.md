@@ -31,30 +31,23 @@ I would love to collaborate on projects from which I can learn something new and
 <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"> <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"> <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"> <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
 
 
-<!-- ## ✨ Projects ✨
+## ✨ Projects ✨
 
 <b> Some of the projects I have made </b> <br>
 
-<a href="https://github.com/Advik-Gupta/advikclothing-v3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=advikclothing-v3&theme=tokyonight&show_owner" />
+<a href="https://github.com/Advik-Gupta/MERN-E-commerce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=MERN-E-commerce&theme=tokyonight&show_owner" />
 </a>
-<a href="https://github.com/Advik-Gupta/MERN-eCommerce">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=MERN-eCommerce&theme=tokyonight" />
+<a href="https://github.com/Advik-Gupta/Coupled">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=Coupled&theme=tokyonight" />
 </a><br><br>
 
 <a href="https://github.com/Advik-Gupta/Covid-19-Tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=Covid-19-Tracker&theme=tokyonight&show_owner" />
 </a>
-<a href="https://github.com/Advik-Gupta/DMMITS-21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=DMMITS-21&theme=tokyonight" />
+<a href="https://github.com/Advik-Gupta/advikclothing-v3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=advikclothing-v3&theme=tokyonight" />
 </a><br><br>
-
-<a href="https://github.com/Advik-Gupta/Coupled">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=Coupled&theme=tokyonight&show_owner" />
-</a>
-<a href="https://github.com/Advik-Gupta/Small-Web-Development-Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=Small-Web-Development-Projects&theme=tokyonight" />
-</a><br><br>  -->
 
 ## 🤝 Contact Me
 
