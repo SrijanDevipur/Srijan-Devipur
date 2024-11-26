@@ -1,9 +1,9 @@
 <!-- ### I am currently on a break from coding.
 That's why if some of my projects/code dont work its because I havent maintained them in a while.
 <br/> -->
-<h2> 👋 Hi, I’m Advik Gupta </h2>
+<h2> 👋 Hi, I’m Srijan Devipur </h2>
 
-Hi, I’m Advik Gupta, a self-taught programmer from India. I am currently focused on full-stack web development, with a passion for machine learning and AI. I love learning new technologies and programming languages and increasing the extent of my skillset. I am a diligent worker with a penchant for delivering quality work which is visible in everything I do. <br>
+Hi, I’m Srijan Devipur, a self-taught programmer from India. I am currently focused on full-stack web development, with a passion for machine learning and AI. I love learning new technologies and programming languages and increasing the extent of my skillset. I am a diligent worker with a penchant for delivering quality work which is visible in everything I do. <br>
 I would love to collaborate on projects from which I can learn something new and gain more experience. I'm always looking to learning new things and making friends along the way. I started gaining knowledge from a young age, which makes me even more open to channelising my thoughts and ideas, into more structured forms. <br>
 
 - 🧠 I’m currently learning: Data Analysis and Tensorflow
